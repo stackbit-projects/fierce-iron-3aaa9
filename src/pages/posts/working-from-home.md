@@ -4,7 +4,7 @@ excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
   as a WAHM (work at home mom) or a WAHD (work at home dad).
-date: '2019-03-30'
+date: '2020-11-29'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 template: post
