@@ -14,7 +14,7 @@
             {
                 "label": "Vision",
                 "url": "/about",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Style Guide",
