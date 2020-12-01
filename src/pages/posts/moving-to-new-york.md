@@ -3,7 +3,7 @@ title: 'Main Store available with unstitched clothes  '
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   We have unstitched fabrics available , so that people can choose fabrics
-  according to their choice 
+  according to their choice.
 date: '2018-01-23'
 thumb_img_path: images/facbde39b7c3b4458320f8e4ccb0b3fd.jpg
 content_img_path: images/5.jpg
