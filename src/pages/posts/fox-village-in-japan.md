@@ -1,5 +1,5 @@
 ---
-title: Formal dresses'
+title: Formal dresses
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
