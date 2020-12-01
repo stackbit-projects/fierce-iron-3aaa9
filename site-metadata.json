@@ -9,7 +9,8 @@
             {
                 "label": "Home",
                 "url": "/vision ",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             },
             {
                 "label": "Vision",
