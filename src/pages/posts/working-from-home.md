@@ -1,6 +1,6 @@
 ---
 title: 'Collaboration of Tailors and Designers  '
-excerpt: 'We '
+excerpt: 'We have team of '
 date: '2020-11-29'
 thumb_img_path: images/istockphoto-1193119969-1024x1024.jpg
 content_img_path: images/9.jpg
