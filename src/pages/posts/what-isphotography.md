@@ -1,5 +1,5 @@
 ---
-title: 'Ethical and '
+title: 'Ethical and Traditional '
 subtitle: A intresting tale about Photography and me
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
@@ -7,7 +7,9 @@ excerpt: >-
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 date: '2018-01-15'
-thumb_img_path: images/8.jpg
+thumb_img_path: >-
+  images/https___s3-ap-northeast-1.amazonaws.com_psh-ex-ftnikkei-3937bb4_images_3_9_3_7_29347393-3-eng-GB_Cropped-1600246338Anita
+  Dongre SS'20 small.jpg
 content_img_path: images/8.jpg
 template: post
 ---
