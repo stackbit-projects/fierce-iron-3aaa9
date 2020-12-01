@@ -14,7 +14,8 @@
             {
                 "label": "Vision",
                 "url": "/about",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             },
             {
                 "label": "Strategies ",
