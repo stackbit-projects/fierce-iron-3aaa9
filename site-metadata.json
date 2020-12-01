@@ -24,7 +24,7 @@
             {
                 "label": "Risk",
                 "url": "/contact",
-                "style": "icon"
+                "style": "secondary"
             },
             {
                 "label": "Marketing ",
