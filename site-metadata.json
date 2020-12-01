@@ -9,7 +9,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "secondary"
+                "style": "primary"
             },
             {
                 "label": "Vision",
