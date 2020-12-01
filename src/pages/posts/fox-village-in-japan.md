@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: Formal dress
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
