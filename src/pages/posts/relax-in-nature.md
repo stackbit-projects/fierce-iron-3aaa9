@@ -5,7 +5,7 @@ subtitle: >-
   health will recharge and how I benefit from it.
 excerpt: >-
   We have skilled and professional tailors who take proper measurement and make
-  well fitting dres
+  well fitting dress
 date: '2019-03-24'
 thumb_img_path: images/jnjbhv.jpg
 content_img_path: images/4.jpg
