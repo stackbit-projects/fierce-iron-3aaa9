@@ -15,7 +15,8 @@
                 "label": "Vision",
                 "url": "/Vision ",
                 "style": "primary",
-                "new_window": true
+                "new_window": true,
+                "icon_class": "nbvvb"
             },
             {
                 "label": "Strategies ",
