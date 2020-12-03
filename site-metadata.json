@@ -28,7 +28,8 @@
             {
                 "label": "Risk",
                 "url": "/contact-success",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             },
             {
                 "label": "Marketing ",
