@@ -3,7 +3,7 @@ title: '                         Vision'
 subtitle: >-
   “Always ready to design and make clothes to enhance your look and keep you in
   trends by using innovative ideas.”
-img_path: images/about.jpg
+img_path: images/76458598.jpg
 template: page
 excerpt: ''
 ---
