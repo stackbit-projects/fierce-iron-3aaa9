@@ -19,8 +19,8 @@ form_fields:
     label: Subject
     default_value: Please select
     options:
-      - ''
-      - Sponsorship
+      - 'Design Suggestion '
+      - Design Demand
       - Other
   - input_type: textarea
     name: message
