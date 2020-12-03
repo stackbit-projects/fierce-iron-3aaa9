@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: ''
 template: page
 img_path: images/Brand Strategy.jpg
 ---
