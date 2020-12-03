@@ -22,7 +22,8 @@
             {
                 "label": "Strategies ",
                 "url": "/style-guide",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             },
             {
                 "label": "Risk",
