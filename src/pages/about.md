@@ -7,7 +7,7 @@ img_path: images/76458598.jpg
 template: page
 excerpt: ''
 ---
-                               Value Proposition
+                                 Value Proposition
 
 ***“Connect to the world of fashion trends where you can experience the fusion of traditional and modern attires under a single roof.”***
 
