@@ -1,7 +1,7 @@
 ---
 title: Risk
 template: page
-subtitle: 'Following types of risk can be arise in business: -'
+subtitle: ''
 excerpt: ''
 img_path: images/risk2.jpg
 ---
