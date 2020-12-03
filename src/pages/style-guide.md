@@ -1,7 +1,7 @@
 ---
 title: Marketing
 subtitle: We have different market streams to expand our business.
-img_path: images/6.jpg
+img_path: images/unnamed.jpg
 template: page
 ---
 
