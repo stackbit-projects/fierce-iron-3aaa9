@@ -1,6 +1,6 @@
 ---
 title: Marketing
-subtitle: 'We are '
+subtitle: 'We have '
 img_path: images/6.jpg
 template: page
 ---
