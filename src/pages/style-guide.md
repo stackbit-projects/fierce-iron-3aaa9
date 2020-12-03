@@ -5,7 +5,7 @@ img_path: images/unnamed.jpg
 template: page
 ---
 
-  ### Market Streams
+  #### Market Streams
 
 Market streams which we are using to sell our clothes are: -
 
@@ -37,28 +37,6 @@ relationship with customer as well as we maintain it for a long-term relationshi
 + Offer gifts with clothes on special occasions to regular customers
 + Ask them for feedback about service.
 + Design clothes according to their requirements.
-
-
-## Ordered Lists
-
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-```
-/* Some example CSS code */
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-```
 
 ## Tables
 
