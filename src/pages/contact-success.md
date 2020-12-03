@@ -9,7 +9,7 @@ Risk which we can face : -
 
 1)Technology risk
 
-2) Market risk
+2)Market risk
 
 3)Financial risk
 
