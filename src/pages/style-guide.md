@@ -17,39 +17,27 @@ short by using business to business to customer (B2B2C model).
 3)Sell products online (digital Marketing) through famous e-shopping website, make own website
 and app (digital store).
 
-# This is an H1
 
-## This is an H2
 
-### This is an H3
+## Establish and Maintain Customer Relationship
 
-#### This is an H4
 
-##### This is an H5
+>"Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves."
 
-###### This is an H6
+  For smoothing running of business we will
+establish a good and sound relationship with our customers. We will not only establish a good
+relationship with customer as well as we maintain it for a long-term relationship.
 
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
+## We can maintain it by following these ways: -
 
-## Quoting
++ Be loyal in quality of clothes. 
++ We will listen their problems or pain so that we can mitigate their problems.
++ Provide service on time.
++ Make a regular communication with valuable customers.
++ Offer gifts with clothes on special occasions to regular customers
++ Ask them for feedback about service.
++ Design clothes according to their requirements.
 
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
-
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>― Scott Adams</cite>
-
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the &lt;cite&gt; element.
-
-<hr />
-
-## Unordered Lists
-
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
 
 ## Ordered Lists
 
