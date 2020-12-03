@@ -1,9 +1,15 @@
 ---
 title: Marketing
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  As it is newly established business, we are going to invest 12-20% of revenue
+  on Marketing. We are going to market to our customer in both ways: - online
+  and offline. 1)Online: - Different digital platforms can be used to for
+  marketing our customers. We will make own brand website and advertise our
+  websites on different digital medias. As our budget is above $5000, we invest
+  7% of the monthly ads spend. 2)Offline: - We can attract people who are not
+  familiar by using offline marketing strategies like business cards, pamphlets,
+  publish on newspaper or though collaborated clothing stores where we are going
+  to sell our dresses. 
 img_path: images/6.jpg
 template: page
 ---
