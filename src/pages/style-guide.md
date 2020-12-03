@@ -5,9 +5,17 @@ img_path: images/unnamed.jpg
 template: page
 ---
 
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
+  **Market Streams**
 
-The HTML &lt;h1&gt;–&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level and &lt;h6&gt; is the lowest.
+Market streams which we are using to sell our clothes are: -
+
+1)Sell clothes through other Stores which are famous and has value and reputation in market in
+short by using business to business to customer (B2B2C model).
+
+2)We can establish own main store for direct selling (B2C model).
+
+3)Sell products online (digital Marketing) through famous e-shopping website, make own website
+and app (digital store).
 
 # This is an H1
 
@@ -78,7 +86,7 @@ body {
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell</td>
         <td>Row 1, Cell 2</td>
         <td>Row 1, Cell 3</td>
       </tr>
