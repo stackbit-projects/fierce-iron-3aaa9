@@ -33,7 +33,7 @@
             },
             {
                 "label": "Marketing ",
-                "url": "lorem-ipsum",
+                "url": "/style-guide",
                 "style": "primary",
                 "icon_class": "lorem-ipsum",
                 "new_window": true,
