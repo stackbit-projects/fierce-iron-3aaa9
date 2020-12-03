@@ -1,6 +1,6 @@
 ---
 title: Marketing
-subtitle: 'We have different '
+subtitle: We have different market streams to expand our business.
 img_path: images/6.jpg
 template: page
 ---
