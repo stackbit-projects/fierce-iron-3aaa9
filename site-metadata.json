@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Hom",
                 "url": "/",
                 "style": "primary",
                 "new_window": true
