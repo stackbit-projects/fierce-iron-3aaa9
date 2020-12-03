@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: images/magical-velociraptor.jpg
 form_id: contactForm
 form_action: /contact-success
 form_fields:
