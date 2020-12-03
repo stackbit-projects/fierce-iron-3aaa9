@@ -1,5 +1,5 @@
 ---
-title: Our St
+title: Our Stra
 img_path: images/magical-velociraptor.jpg
 form_id: contactForm
 form_action: /contact-success
