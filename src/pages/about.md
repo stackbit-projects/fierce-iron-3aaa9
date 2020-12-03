@@ -9,7 +9,7 @@ excerpt: ''
 ---
                                Value Proposition
 
-“Connect to the world of fashion trends where you can experience the fusion of traditional and modern attires under a single roof.”*
+*“Connect to the world of fashion trends where you can experience the fusion of traditional and modern attires under a single roof.”*
 
 
 
