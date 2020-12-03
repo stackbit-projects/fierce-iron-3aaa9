@@ -102,7 +102,7 @@
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "fa-dev",
-                "new_window": false
+                "new_window": true
             }
         ],
         "has_subscribe": true,
