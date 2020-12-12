@@ -15,4 +15,6 @@ template: post
 > We also provide training to tailors who are not familiar with advanced technology as they are from rural area. 
 
 * They are skilled in stitching the clothes. 
-
+* Prepare clothes on time. 
+* Proper measurement of customers are taken by our team members . 
+* Dresses are prepared according to customer as some likes loose fitting and some likes body fitting clothes.
