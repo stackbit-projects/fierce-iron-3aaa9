@@ -6,7 +6,7 @@ excerpt: >-
   well fitting dresses.
 date: '2019-03-24'
 thumb_img_path: images/jnjbhv.jpg
-content_img_path: images/wonderful-tulip.jpg
+content_img_path: images/superb-sunflower.jpg
 template: post
 ---
 
