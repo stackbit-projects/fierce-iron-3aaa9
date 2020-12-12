@@ -2,7 +2,7 @@
 title: 'Our Strategies '
 img_path: images/magical-velociraptor.jpg
 form_id: contactForm
-form_action: /contact-success
+form_action: /
 form_fields:
   - input_type: text
     name: name
