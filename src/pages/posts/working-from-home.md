@@ -8,4 +8,5 @@ thumb_img_path: images/istockphoto-1193119969-1024x1024.jpg
 content_img_path: images/fabulous-aspen.jpg
 template: post
 ---
-;lk,umjynhtgfbvi;lukyjthngrbfvdcliukjhngfbvkjmhngbfv
+Our designers and tailor work together as a team. 
+Our designers design clothes or outfits according to the latest trends and handover that desgins to our tailors who make outfits for you according to your measurements. 
