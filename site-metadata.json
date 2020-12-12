@@ -1,7 +1,7 @@
 {
     "description": "",
     "layout_style": "grid",
-    "palette": "black",
+    "palette": "red",
     "header": {
         "title": "Clothing Store",
         "has_nav": true,
