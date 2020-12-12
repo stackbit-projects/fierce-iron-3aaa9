@@ -1,6 +1,6 @@
 ---
 title: 'Main Store available with unstitched clothes  '
-subtitle: A cautionary tale about life in New York
+subtitle: ''
 excerpt: >-
   We have unstitched fabrics available , so that people can choose fabrics
   according to their choice.
