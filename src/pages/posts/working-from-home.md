@@ -8,3 +8,4 @@ thumb_img_path: images/istockphoto-1193119969-1024x1024.jpg
 content_img_path: images/fabulous-aspen.jpg
 template: post
 ---
+;lk,umjynhtgfbvi;lukyjthngrbfvdcliukjhngfbvkjmhngbfv
