@@ -1,6 +1,6 @@
 ---
 title: Ethical and Traditional dresses
-subtitle: A intresting tale about Photography and me
+subtitle: ''
 excerpt: ''
 date: '2018-01-15'
 thumb_img_path: >-
