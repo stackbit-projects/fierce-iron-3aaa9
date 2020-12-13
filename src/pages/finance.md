@@ -1,6 +1,6 @@
 ---
 title: 'Finance '
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 template: page
 ---
