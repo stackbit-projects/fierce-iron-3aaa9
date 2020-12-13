@@ -28,4 +28,5 @@ between different brands in a market.
 
 1.  First of all ,we IDENTIFY the risk 
 2. Then we EVALUATE that risk. Give them rank according to its effects on buisness.
-3. After Evaluaion, we T
+3. After Evaluaion, we TREAT the risk and will take suitable action to overcome that risk.
+4. And at last , we will MONITOR that how our plan to overcome the risk is working.
