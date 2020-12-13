@@ -5,9 +5,7 @@ excerpt: lorem-ipsum
 template: page
 img_path: images/finance.jpg
 ---
-## Lorem ipsum
+> For financing we use following source of funding
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Friends and Family
 
-- Lorem ipsum
-- dolor sit amet
