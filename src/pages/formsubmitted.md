@@ -1,5 +1,5 @@
 ---
-title: Thanks for contact
+title: 'Your query is '
 subtitle: Always  available for you
 excerpt: ''
 template: page
