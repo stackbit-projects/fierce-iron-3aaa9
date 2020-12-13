@@ -1,6 +1,6 @@
 ---
 title: Thanks for contact
-subtitle: lorem-ipsum
+subtitle: 'Always '
 excerpt: lorem-ipsum
 template: page
 ---
