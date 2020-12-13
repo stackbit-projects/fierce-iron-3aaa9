@@ -34,7 +34,7 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-**"Our startiges to enhance our buiseness is to establish good relationship with our customers and listen to them" **
+> "Our startiges to enhance our buiseness is to establish good relationship with our customers and listen to them" 
 
 
         Fill the form below to get in touch with our team.
