@@ -5,7 +5,7 @@ subtitle: ''
 excerpt: ''
 img_path: images/risk2.jpg
 ---
-****Risk which we can face : -
+Risk which we can face : -
 
 1)Technology risk :- Employees may not be advanced technology.
 
