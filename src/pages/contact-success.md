@@ -5,7 +5,7 @@ subtitle: ''
 excerpt: ''
 img_path: images/risk2.jpg
 ---
-Risk which we can face : -
+****Risk which we can face : -
 
 1)Technology risk :- Employees may not be advanced technology.
 
@@ -16,7 +16,7 @@ risks related to finance as supplier may be, they demand payment in advance befo
 security.
 
 
-4)Seasonality and obsolescence :- As season changes, clothes which are in stock and not sold
+4)Seasonality and obsolescence :-As season changes, clothes which are in stock and not sold
 out is a major concern because these clothes become outdated in next season. May be people
 do not buy them in next season.-
 
