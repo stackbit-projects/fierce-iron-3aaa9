@@ -1,5 +1,5 @@
 ---
-title: Th
+title: Thanks for contact
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
