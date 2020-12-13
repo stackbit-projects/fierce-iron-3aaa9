@@ -1,6 +1,6 @@
 ---
 title: 'Our Strategies '
-img_path: images/Untitled.png
+img_path: images/4-Mistakes-Frequently-Made-in-Business-Strategies-1.jpg
 form_id: contactForm
 form_action: /formsubmitted
 form_fields:
