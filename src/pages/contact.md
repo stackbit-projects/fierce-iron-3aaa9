@@ -1,6 +1,6 @@
 ---
 title: 'Our Strategies '
-img_path: images/magical-velociraptor.jpg
+img_path: images/4-Mistakes-Frequently-Made-in-Business-Strategies-1.jpg
 form_id: contactForm
 form_action: /formsubmitted
 form_fields:
@@ -34,7 +34,7 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-**"Our startiges to enhance our buiseness is to establish good relationship with our customers and listen to them" **
+> "Our startiges to enhance our buiseness is to establish good relationship with our customers and listen to them" 
 
 
         Fill the form below to get in touch with our team.
