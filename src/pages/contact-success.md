@@ -3,7 +3,8 @@ title: Risk
 template: page
 subtitle: ''
 excerpt: ''
-img_path: images/risk2.jpg
+img_path: >-
+  images/risk_assessment_analysis_security_danger_thinkstock_519706040-100750022-large.jpg
 ---
 > Risk which we can face : -
 
