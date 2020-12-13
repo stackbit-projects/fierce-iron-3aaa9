@@ -1,7 +1,7 @@
 ---
 title: Thanks for contact
 subtitle: Always  available for you
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum
