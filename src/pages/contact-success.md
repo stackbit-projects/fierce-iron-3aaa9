@@ -26,5 +26,6 @@ between different brands in a market.
  
 >  To manage the risk we will follow following steps :-
 
-1.  First of all ,we  **identify   the risk 
-2. Then we 
+1.  First of all ,we IDENTIFY the risk 
+2. Then we EVALUATE that risk. Give them rank according to its effects on buisness.
+3. After Evaluaion, we T
