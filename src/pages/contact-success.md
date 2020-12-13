@@ -26,4 +26,5 @@ between different brands in a market.
  
 >  To manage the risk we will follow following steps :-
 
-1. 
+1.  First of all ,we  **identify   the risk 
+2. Then we 
