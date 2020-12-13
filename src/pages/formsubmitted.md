@@ -1,5 +1,5 @@
 ---
-title: 'Your query is '
+title: 'Your query is submitted '
 subtitle: Always  available for you
 excerpt: ''
 template: page
