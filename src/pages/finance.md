@@ -3,6 +3,7 @@ title: 'Finance '
 subtitle: ''
 excerpt: lorem-ipsum
 template: page
+img_path: images/finance.jpg
 ---
 ## Lorem ipsum
 
