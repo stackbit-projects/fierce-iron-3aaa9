@@ -22,3 +22,8 @@ do not buy them in next season.-
 
 5)Competitive risk:-In clothing industry, branding is everything. there are huge coemption
 between different brands in a market.
+ 
+ 
+>  To manage the risk we will follow following steps :-
+
+1. 
