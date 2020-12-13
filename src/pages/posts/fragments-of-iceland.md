@@ -1,5 +1,5 @@
 ---
-title: 'Best design + Best tailor + Best fabric = Perfect dress '
+title: 'Best design + Best sitiching  + Best fabric = Perfect dress '
 excerpt: ''
 date: '2018-01-09'
 thumb_img_path: images/item_2692832_550.jpg
