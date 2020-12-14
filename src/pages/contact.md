@@ -41,15 +41,10 @@ We can maintain realtionship by following these ways: -
 1) Be loyal in quality of clothes.
 
 2) We will listen their problems or pain so that we can mitigate their problems.
-
 3) Design clothes according to their requirements.
-
 4) provide service on time.
-
 5)Make a regular communication with valuable customers.
-
 6)Offer gifts with clothes on special occasions to regular customers.
-
 7)Ask them for feedback about service.
 
 
